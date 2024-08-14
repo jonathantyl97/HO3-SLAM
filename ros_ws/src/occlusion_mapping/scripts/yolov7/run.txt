@@ -1,0 +1,7 @@
+python detect.py --weights yolov7.pt --conf 0.7 --img-size 640 --source test.png
+python detect.py --weights yolov7.pt --conf 0.7 --img-size 640 --source test1.mp4
+
+----------------------------------------
+python detect_detectron2.py --source test.png
+python detect_detectron2.py --source test1.mp4
+
