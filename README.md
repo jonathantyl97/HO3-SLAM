@@ -86,7 +86,7 @@ Run these commands in separate terminals
 
 Terminal 1: (DSO ROS node)
    ```
-b.	rosrun dso_ros dso_live image:=/camera/image_raw calib=calib.txt
+rosrun dso_ros dso_live image:=/camera/image_raw calib=calib.txt
    ```
 Terminal 2: (Frame merger script)
    ```
