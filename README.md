@@ -119,10 +119,12 @@ Contributions to HO3-SLAM are welcome! Please feel free to submit pull requests,
 If you use HO3-SLAM in your research, please cite our work:
 
 Plain text:
+
 J. T. Yu Liang and T. Kanji, "HO3-SLAM: Human-Object Occlusion Ordering as Add-on for Enhancing Traversability Prediction in Dynamic SLAM," 2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS), Guayaquil, Ecuador, 2023, pp. 1-7, doi: 10.1109/ICPRS58416.2023.10179060. keywords: {Location awareness;Simultaneous localization and mapping;Pedestrians;Navigation;Prototypes;Detectors;Robustness},
 
 
 BibTex:
+
 @INPROCEEDINGS{10179060,
   author={Yu Liang, Jonathan Tay and Kanji, Tanaka},
   booktitle={2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS)}, 
